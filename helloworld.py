@@ -1,0 +1,6 @@
+print("hello world !".upper())
+print("hello world")
+print(9+44+55)
+print(65+464-22+88)
+print("the end".upper())
+print("we can print","in this way also")
